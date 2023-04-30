@@ -18,3 +18,14 @@ Esse é completo
 
 
 https://github.com/jekhokie/raspberry-noaa-v2
+
+
+http://wx.philandmel.com/receiver-control/
+
+
+wget https://wxtoimgrestored.xyz/downloads-src/wxtoimg-linux64-2.10.11-1.tar.gz
+
+
+
+
+https://leshamilton.co.uk/wxtoimg.htm

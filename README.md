@@ -29,3 +29,6 @@ wget https://wxtoimgrestored.xyz/downloads-src/wxtoimg-linux64-2.10.11-1.tar.gz
 
 
 https://leshamilton.co.uk/wxtoimg.htm
+
+http://jcoppens.com/ant/qfh/calc.en.php
+

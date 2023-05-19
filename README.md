@@ -32,3 +32,4 @@ https://leshamilton.co.uk/wxtoimg.htm
 
 http://jcoppens.com/ant/qfh/calc.en.php
 
+https://fuzzthepiguy.tech/predict-sate
